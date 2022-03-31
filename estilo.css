@@ -150,30 +150,14 @@ footer{
 .link1{
     margin-right: 20px;
 }
-.link2{
-    margin-right: 20px;
-}
-.link3{
-    margin-right: 20px;
-}
-.link4{
-    margin-right: 20px;
-}
+
 .footer2{
     display: flex;
     justify-self:flex-end;
     padding-right: 55px;
     align-items: center;
 }
-.link5{
-    margin-right: 20px;
-}
-.link6{
-    margin-right: 20px;
-}
-.link7{
-    margin-right: 20px;
-}
+
 @media (max-width:630px){
     .footer-nav{
         flex-direction: column;
